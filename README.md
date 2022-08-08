@@ -1,2 +1,2 @@
 # nft-Alchemy
-Alchemy Tutorial
+ERC721 - Week 1 (Alchemy Tutorial)
